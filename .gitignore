@@ -1,0 +1,14 @@
+# Ignore node_modules folder
+node_modules/
+
+#Ignore .env/ secret files
+Backend/.env
+
+#logs
+logs
+*.logs
+# Keep these tracked
+!package.json
+!package-lock.json
+!*.example
+
