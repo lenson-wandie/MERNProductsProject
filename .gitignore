@@ -2,7 +2,7 @@
 node_modules/
 
 #Ignore .env/ secret files
-Backend/.env
+Backend/src/.env
 
 #logs
 logs
